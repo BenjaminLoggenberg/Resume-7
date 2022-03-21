@@ -124,13 +124,16 @@ main {
 #Jobs {
   color: #353535;
   background-color: #FFFFFF;
+;
   margin: 10px;
   padding: 10px;
 }
 
 #Interests {
-color: #353535;
-  background-color: #FFFFFF;
+color: black;
+background:#FFFFFF url(/images/surfBackground.jpg);
+background-position: center;
+background-repeat: repeat;
   margin: 10px;
   padding: 10px;
 }
